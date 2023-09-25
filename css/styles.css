@@ -32,6 +32,6 @@
 
 @media screen and (max-width:320px) {
   #img2{
-    width: auto !important;
+    width: 300px !important;
   }  
 }
